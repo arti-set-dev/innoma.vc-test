@@ -1,0 +1,23 @@
+/*!
+ * Programatically add the following
+ */
+
+/*!
+ * dist/inputmask
+ * https://github.com/RobinHerbots/Inputmask
+ * Copyright (c) 2010 - 2021 Robin Herbots
+ * Licensed under the MIT license
+ * Version: 5.0.7
+ */
+
+/*! @name @videojs/http-streaming @version 3.0.0 @license Apache-2.0 */
+
+/*! @name aes-decrypter @version 4.0.1 @license Apache-2.0 */
+
+/*! @name m3u8-parser @version 6.0.0 @license Apache-2.0 */
+
+/*! @name pkcs7 @version 1.0.4 @license Apache-2.0 */
+
+/*! @name videojs-contrib-quality-levels @version 3.0.0 @license Apache-2.0 */
+
+/*! choices.js v10.2.0 | © 2022 Josh Johnson | https://github.com/jshjohnson/Choices#readme */
